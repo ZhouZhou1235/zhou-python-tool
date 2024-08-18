@@ -1,0 +1,8 @@
+python
+使用opencv按颜色分类图片
+
+把图片放到sortArea中
+然后点击 sortImageByColor.exe 运行
+
+粉糖粒子周周 2024.8.13
+QQ1479499289
